@@ -1,0 +1,26 @@
+.outter{
+    display: flex;
+    width: 50vw;
+    height: 50vh;
+    background-color: gainsboro;
+    justify-content: space-between;
+}
+body{
+    margin: 0px;
+}
+
+.outter div{
+    width: 30%;
+    height: 30%;
+    background-color: lightcoral;
+}
+.fst{
+    width: 30%;
+    height: 30%;
+    background-color: lightcoral;
+}
+.scd{
+    width: 30%;
+    height: 30%;
+    background-color: lightcoral;
+}
